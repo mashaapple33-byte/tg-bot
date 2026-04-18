@@ -22,7 +22,7 @@ logging.basicConfig(level=logging.INFO)
 EXPLORERS_FILE = 'explorers.json'
 
 # Bot token
-TOKEN = os.environ.get('BOT_TOKEN')
+TOKEN = "8615438025:AAHZlCCqVOOsFda7QVzrHeFNj7MKxdTzZWE"
 
 # Initialize bot and dispatcher
 bot = Bot(token=TOKEN)
